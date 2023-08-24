@@ -1,3 +1,17 @@
+Calendar apps have are way too bloated. I wanted a link to send to my friends that works on desktop & mobile to find a time for us to hangout.
+
+Choose some dates and send to friends. Done.
+
+
+how to run locally:
+
+1. clone this repo
+2. `cd time-finder`
+2. `npm run dev`
+
+----
+# Old readme below
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
